@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul from non-yet-existance one-man-it-company, that I named DODOSoftware.
-Name "Dodo" comes from alias of my little daughter with severe cerebral palsy, the alias she loves :) She's the main reason I'm trying to change my current job, 
+Name "Dodo" comes from alias of my little daughter, the alias she loves :) She's the main reason I'm trying to change my current job, 
 from physiotherapist to a programmer. It's May 2022 when I write this, and I started 2 months back - so please be understanding, if you're reading my code :)
 
 - 👀 I’m interested in ---
